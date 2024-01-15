@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Привет, меня зовут Ксюша</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**kseniiavlkva/kseniiavlkva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я начинающий аналитик данных, который искренне считает, что таблицы и столбчатые диаграммы- это красиво 
 
-Here are some ideas to get you started:
+&ensp;
+&ensp;
+### Языки и инструменты, которыми я пользуюсь:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&ensp;
+&ensp;
+&ensp;
+&ensp;
+### С моими учебными проектами можно ознакомиться здесь 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kseniiavlkva&repo=portfolio)](https://github.com/kseniiavlkva/portfolio)
+
