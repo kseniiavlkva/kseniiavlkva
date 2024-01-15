@@ -20,3 +20,5 @@
 ### С моими учебными проектами можно ознакомиться здесь 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kseniiavlkva&repo=portfolio)](https://github.com/kseniiavlkva/portfolio)
 
+### Связаться
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ks_vlkva) 
